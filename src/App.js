@@ -11,6 +11,7 @@ import { Provider } from "./context";
 
 class App extends Component {
   render() {
+    console.log("DENEME")
     return (
       <Provider>
         <Router>
